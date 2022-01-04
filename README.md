@@ -1,6 +1,6 @@
 # Twitter_hate-speech_recognition
 
-This is a sentiment analysis problem of training the machine in detecting multi-label classificaton: positive, neutral or negative reviews. In this project we will use classic ML as well as DL algorithms such as CNN and LSTM
+This is a sentiment analysis problem of detecting binary classificaton: positive or negative tweets. 
 
 Steps on completing the project.
 
