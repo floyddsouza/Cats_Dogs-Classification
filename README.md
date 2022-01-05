@@ -1,6 +1,6 @@
 # Twitter_hate-speech_recognition
 
-This is a sentiment analysis problem of detecting binary classificaton: positive or negative tweets. 
+This is a sentiment analysis problem of binary classificaton on detecting: positive or negative tweets. 
 
 Steps on completing the project.
 
